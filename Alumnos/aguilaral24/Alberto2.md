@@ -1,1 +1,1 @@
-Esto es una prueba agrefgando un nuevo archivo a Github
+Esto es una prueba agregando un nuevo archivo a Github
